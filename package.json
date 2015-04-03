@@ -1,0 +1,29 @@
+{
+  "name": "hackmap",
+  "version": "1.0.0",
+  "description": "Hacky map implementation. Light weight and easy",
+  "main": "hackmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brad-bowie/hackmap.git"
+  },
+  "keywords": [
+    "map",
+    "hashmap",
+    "hash",
+    "hashtable",
+    "table"
+  ],
+  "author": "Brad Bowie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brad-bowie/hackmap/issues"
+  },
+  "homepage": "https://github.com/brad-bowie/hackmap",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
