@@ -54,14 +54,6 @@ function HackMap() {
             keys.splice(i, 1);
         }
     }
-
-    this.forEach = function(func, onFinish) {
-        if (func && values && values.length > 0) {
-            async.each(values, func, onFinish);
-        } else if (onFinish) {
-            onFinish();
-        }
-    }
 }
 
 module.exports = HackMap;
