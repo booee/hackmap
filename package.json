@@ -1,6 +1,6 @@
 {
   "name": "hackmap",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hacky map implementation. Light weight and easy",
   "main": "hackmap.js",
   "scripts": {

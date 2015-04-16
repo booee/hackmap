@@ -1,6 +1,4 @@
 // Brad's super secret, super hacky map impl. Is best, bro
-var async = require('async');
-
 function HackMap() {
     var values = [];
     var keys = [];
